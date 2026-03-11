@@ -8,7 +8,7 @@ NumPy - for numerical calculations and logical operations
 yfinance - fetches historical stock and cryptocurrency data
 mplfinance - for plotting high-quality candlestick charts
 
-Key Features:  
+Key Features:                                
 **Automated Pattern Detection - Scans historical data for common candlestick patterns such as:**
 - Bullish Engulfing
 - Bearish Engulfing  
