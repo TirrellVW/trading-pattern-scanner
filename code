@@ -1,0 +1,10 @@
+import yfinance as yf
+import pandas as pd
+import numpy as np
+import mplfinance as mpf
+
+symbol = "APPL"
+data = yf.download(symbol, period="3mo", interval="1d"
+
+def detect_bullish_engulfing(df):
+  patterns = []
