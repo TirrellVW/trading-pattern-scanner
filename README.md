@@ -1,4 +1,4 @@
-Overview:
+Overview:  
 The Candestick Pattern Scanner is a Python-based tool designed to analyze historical stock and cryptocurrency data to identify key candlestick patterns, such as Bullish Engulfing and Bearish Engulfing. Candlestick patterns are widely used in technical analysis to predict potential market reversals or continuations, making this project a practical demonstration of combining programming with financial analytics.
 
 Technologies Used:
