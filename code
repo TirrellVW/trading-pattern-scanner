@@ -5,7 +5,7 @@ import mplfinance as mpf
 
 # Fetches historical data of the stock "APPL (APPLE)"
 symbol = "APPL"
-data = yf.download(symbol, period="3mo", interval="1d"
+data = yf.download(symbol, period="3mo", interval="1d")
 
 # Detects Bullish (price going up) Patterns
 def detect_bullish_engulfing(df):
